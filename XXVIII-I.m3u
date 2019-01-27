@@ -970,6 +970,12 @@ http://139.59.166.48:8081/live/live3/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/BQ5WSFLL/M2.png" group-title="MUSIC♥IPTV",1 MUSIC
 http://92.249.129.152/stream/1music.m3u8
 
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MZRN5BYP/M10.png" group-title="LOVE♥FASHION",FASHION FILM
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_fashion_films_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MZRN5BYP/M10.png" group-title="LOVE♥FASHION",FASHION PARIS
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MZRN5BYP/M10.png" group-title="LOVE♥FASHION",FASHION FITNESS
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_fashion_fitness_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MZRN5BYP/M10.png" group-title="LOVE♥FASHION",FASHION TV MIDNITE
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MZRN5BYP/M10.png" group-title="LOVE♥FASHION",FASHION & LIFESTYLE
