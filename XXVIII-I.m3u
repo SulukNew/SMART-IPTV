@@ -565,20 +565,24 @@ http://42.114.130.23:8889/udp/225.1.2.160:30120
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",SUPER SOCCER TV
 http://210.210.155.35/uq2663/h/h20/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Skynet Sports HD
-http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/5396
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Skynet Sports 1
-http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/5395
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Skynet Sports 2
-http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/5394
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Skynet Sports 3
-http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/5393
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Skynet Sports 4
-http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/5392
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Skynet Sports 5
-http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/5391
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Skynet Sports 6
-http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/5390
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",SKYNET SPORTS HD
+http://61.90.226.115:1935/stream/channelid/249348781?ticket=DE8A1B862475CB8A4EF329B91F1FE31668D82684&profile=pass
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",SKYNET SPORTS PLUS
+http://61.90.226.115:1935/stream/channelid/1547773020?ticket=B3E3CF208DE2D61B207F2BB8E0BBEB069ED94D8A&profile=pass
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",SKYNET SPORTS 1
+http://61.90.226.115:1935/stream/channelid/121957906?ticket=231B162C6B4003C29A16D0A1D3C718F0161B5822&profile=pass
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",SKYNET SPORTS 2
+http://61.90.226.115:1935/stream/channelid/49897063?ticket=0A91E321A3595B5654C1D28A7607CB5002458B5A&profile=pass
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",SKYNET SPORTS 3
+http://61.90.226.115:1935/stream/channelid/582997723?ticket=95129E7F2CD148D324625F3D08DD0E19FB5034E7&profile=pass
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",SKYNET SPORTS 4
+http://61.90.226.115:1935/stream/channelid/1206896753?ticket=2A6DF474037433AEFE16C7E41B99AFC403CB893F&profile=pass
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",SKYNET SPORTS 5
+http://61.90.226.115:1935/stream/channelid/1552177711?ticket=F59D2213E521E99A3EDA3DC3B80BFC6A8290D629&profile=pass
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",SKYNET SPORTS 6
+http://61.90.226.115:1935/stream/channelid/1637708415?ticket=02CE97D7C2ACD421FBCEE6138484C1847D284394&profile=pass
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",EDGE SPORT
+http://61.90.226.115:1935/stream/channelid/433635145?ticket=FB03A83270BB177BA9DA69C2DD3757ED65109C9B&profile=pass
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",BEIN_SPORTS_1_HD INDO
 http://universeiptv.com:8000/mostfasolo/4938234/31993
