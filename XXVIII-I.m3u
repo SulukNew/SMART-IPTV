@@ -1001,10 +1001,10 @@ http://142.44.213.159:25461/live/expiresevery/1.3hours/198.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/XYnRpvd2/M1.png" group-title="SCIENCE♥IPTV",Investigation Discovery
 http://142.44.213.159:25461/live/expiresevery/1.3hours/86.ts
 
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS♥IPTV",Tom & Jerry HD
+http://1290922571.rsc.cdn77.org/movies/Tom-and-Jerry-2005.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS♥IPTV",Scooby-Doo
 http://iptv-area-51.tv:2095/Moe/1234/8116
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS♥IPTV",Tom & Jerry
-http://iptv-area-51.tv:2095/Moe/1234/8152
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS♥IPTV",The Simpsons
 http://iptv-area-51.tv:2095/Moe/1234/7377
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS♥IPTV",Woody Woodpecker
