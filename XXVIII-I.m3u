@@ -485,8 +485,6 @@ http://iptv-area-51.tv:2095/Moe/1234/14457
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",Sony Rox FHD
 http://www.pandar.tv:25461/025322045765/OYATwmObYxNZAoI/23969
 
-
-
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/QMxk9X7h/FPT.png" group-title="FPT♥SPORTS",FOX SPORTS
 http://42.114.130.23:8889/udp/225.1.2.228:30120
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/QMxk9X7h/FPT.png" group-title="FPT♥SPORTS",FOX SPORTS 2
