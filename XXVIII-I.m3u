@@ -500,6 +500,8 @@ http://42.114.130.23:8889/udp/225.1.2.230:30120
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/QMxk9X7h/FPT.png" group-title="FPT♥KIDS",Disney Channel
 http://42.114.130.23:8889/udp/225.1.2.160:30120
 
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",SUPER SOCCER TV
+http://210.210.155.35/uq2663/h/h20/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Skynet Sports HD
 http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/5396
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Skynet Sports 1
