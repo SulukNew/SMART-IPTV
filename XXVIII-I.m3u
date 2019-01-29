@@ -545,6 +545,10 @@ http://42.114.130.23:8889/udp/225.1.1.245:30120
 http://210.210.155.35/uq2663/h/h20/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",TRACE SPORT
 http://61.216.177.73/sta/ch91865016.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",CCTV 5 HD
+http://tv6.ime.moe/hls/cctv5hd.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",CCTV 5+ HD
+http://tv6.ime.moe/hls/cctv5phd.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",SKYNET SPORTS HD
 http://61.90.226.115:1935/stream/channelid/249348781?ticket=DE8A1B862475CB8A4EF329B91F1FE31668D82684&profile=pass
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",SKYNET SPORTS PLUS
