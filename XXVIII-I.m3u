@@ -640,11 +640,11 @@ http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/8503
 http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/8502
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",TH: TRUE SPORTS 1 HD
-http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/8498
+http://ultraiptv.online:80/cGdT/0qBIxq1DVB/22462
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",TH: TRUE SPORTS 2 HD
-http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/8497
+http://ultraiptv.online:80/cGdT/0qBIxq1DVB/22461
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",TH: TRUE SPORTS 3 HD
-http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/8496
+http://ultraiptv.online:80/cGdT/0qBIxq1DVB/22460
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",ELEVEN SPORT 1 HD TW
 http://cdn7.woideas.com/tv11.m3u8
@@ -659,6 +659,23 @@ http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/18622
 http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/18621
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",ASTRO SUPERSPORTS 4 FHD
 http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/18620
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",IL: YES Sport1 HD
+http://ultraiptv.online:80/cGdT/0qBIxq1DVB/26003
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",IL: YES Sport2 HD
+http://ultraiptv.online:80/cGdT/0qBIxq1DVB/26002
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",IL: YES Sport3 HD
+http://ultraiptv.online:80/cGdT/0qBIxq1DVB/26001
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",IL: YES Sport4 HD
+http://ultraiptv.online:80/cGdT/0qBIxq1DVB/26000
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",IL: YES Sport5 GOLD HD
+http://ultraiptv.online:80/cGdT/0qBIxq1DVB/25995
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",IL: YES Sport5 HD
+http://ultraiptv.online:80/cGdT/0qBIxq1DVB/25999
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",IL: YES Sport5 Live HD
+http://ultraiptv.online:80/cGdT/0qBIxq1DVB/25998
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",IL: YES Sport5 Plus HD
+http://ultraiptv.online:80/cGdT/0qBIxq1DVB/25996
 
 #EXTVLCOPT:http-user-agent=Exo45Play 19.0
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="WORLD♥SPORTS",SKY SPORTS ACTION HD
@@ -882,9 +899,9 @@ http://142.44.213.159:25461/live/expiresevery/1.3hours/206.ts
 http://king365tv.podzone.org:2103/live/Zacharie.Laramee/8736879840/1689.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/SQvDDNBC/LC.png" group-title="CHAMPIONS♥LEAGUE",POLSAT SPORT PREMIUM 1 TRANS
-http://online.123iptv.net:25461/nata/nata/372
+http://ultraiptv.online:80/cGdT/0qBIxq1DVB/9503
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/SQvDDNBC/LC.png" group-title="CHAMPIONS♥LEAGUE",POLSAT SPORT PREMIUM 2 TRANS
-http://online.123iptv.net:25461/nata/nata/373
+http://ultraiptv.online:80/cGdT/0qBIxq1DVB/9472
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/SQvDDNBC/LC.png" group-title="CHAMPIONS♥LEAGUE",POLSAT SPORT PREMIUM PPV3
 http://online.123iptv.net:25461/nata/nata/386
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/SQvDDNBC/LC.png" group-title="CHAMPIONS♥LEAGUE",POLSAT SPORT PREMIUM PPV4
