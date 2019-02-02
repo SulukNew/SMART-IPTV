@@ -6,65 +6,8 @@ https://www.dropbox.com/s/4vml0og02nh7ekn/INTROIPTV.mp4?dl=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J79Hhz7w/D10.png" group-title="SULUK♥IPTV",YNWA
 https://www.dropbox.com/s/mfnqkiprmsldfr9/YNWA.mp4?dl=1
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST♥MEDIA",MIX Music HD
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="INDO♥IPTV",MIX Music HD
 http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST♥MEDIA",FOX ACTION MOVIES
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch312)/02.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST♥MEDIA",FOX MOVIES
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/02.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST♥MEDIA",FOX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch328)/02.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST♥MEDIA",FOX CRIME HD
-http://edge.linknetott.swiftserve.com/channelgroup2/cg210production/ch329/02.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST♥MEDIA",FOX FAMILY MOVIES
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch331)/02.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST♥MEDIA",FOX LIFE
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch327)/02.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST♥MEDIA",BLUE ANT ENTERTAIMNENT
-http://edge.linknetott.swiftserve.com/channelgroup2/cg257production/ch335/02.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST♥MEDIA",BLUE ANT EXTREME
-http://edge.linknetott.swiftserve.com/channelgroup2/cg255production/ch330/02.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST♥MEDIA",SETANTA SPORTS
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch44)/02.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST♥MEDIA",FOX SPORTS
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch157)/02.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST♥MEDIA",FOX SPORTS 2
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch314)/02.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST♥MEDIA",FOX SPORTS 3
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch315)/02.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST♥MEDIA",EUROSPORT
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch21)/02.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST♥MEDIA",ANIMAL PLANET
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/02.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST♥MEDIA",HISTORY CHANNEL
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/02.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST♥MEDIA",DISCOVERY CHANNEL
-http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST♥MEDIA",LOVE NATURE 4K
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch368)/Stream(01)/index.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST♥MEDIA",ASIAN FOOD CHANNEL
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/02.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST♥MEDIA",CNBC INDONESIA
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w31589757_b384000_sleng.m3u8?_=1547207286697
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST♥MEDIA",COMEDY NETWORK
-http://edge.linknetott.swiftserve.com/channelgroup3/cg335production/ch62/02.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST♥MEDIA",J'GO
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST♥MEDIA",KBS WORLD
-http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST♥MEDIA",LIFETIME
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch155)/02.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST♥MEDIA",WAKU WAKU JAPAN
-http://edge.linknetott.swiftserve.com/channelgroup5/cg529production/ch340/02.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST♥MEDIA",CARTOON NETWORK
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/02.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST♥MEDIA",eGG NETWORK
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
-
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="INDO♥IPTV",CNN HD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="INDO♥IPTV",NET_TV HD
