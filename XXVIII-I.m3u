@@ -460,16 +460,26 @@ http://iptv-line.com:6969/fifyirekna1/8uIX9bN7/8257
 http://cdn7.woideas.com/tv11.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",ELEVEN SPORT 2 HD TW
 http://cdn6.woideas.com/11sp.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",AR: Beout Q Sport 1 HD
-http://iptv-line.com:6969/fifyirekna1/8uIX9bN7/18907
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",AR: Beout Q Sport 2 HD
-http://iptv-line.com:6969/fifyirekna1/8uIX9bN7/18906
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",AR: Beout Q Sport 3 HD
-http://iptv-line.com:6969/fifyirekna1/8uIX9bN7/18905
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",AR: Beout Q Sport 4 HD
-http://iptv-line.com:6969/fifyirekna1/8uIX9bN7/18904
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",AR: Beout Q Sport 5 HD
-http://iptv-line.com:6969/fifyirekna1/8uIX9bN7/18903
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",BeoutQ 1-HD
+http://192.99.2.159:8080/live/BTFLIVEbeuotQ/BTFkhaled/664.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",BeoutQ 2-HD
+http://192.99.2.159:8080/live/BTFLIVEbeuotQ/BTFkhaled/665.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",BeoutQ 3-HD
+http://192.99.2.159:8080/live/BTFLIVEbeuotQ/BTFkhaled/666.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",BeoutQ 4-HD
+http://192.99.2.159:8080/live/BTFLIVEbeuotQ/BTFkhaled/667.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",BeoutQ 5-HD
+http://192.99.2.159:8080/live/BTFLIVEbeuotQ/BTFkhaled/668.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",BeoutQ 6-HD
+http://192.99.2.159:8080/live/BTFLIVEbeuotQ/BTFkhaled/669.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",BeoutQ 7-HD
+http://192.99.2.159:8080/live/BTFLIVEbeuotQ/BTFkhaled/670.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",BeoutQ 8-HD
+http://192.99.2.159:8080/live/BTFLIVEbeuotQ/BTFkhaled/671.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",BeoutQ 9-HD
+http://192.99.2.159:8080/live/BTFLIVEbeuotQ/BTFkhaled/672.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",BeoutQ 10-HD
+http://192.99.2.159:8080/live/BTFLIVEbeuotQ/BTFkhaled/673.ts
 
 #EXTVLCOPT:http-user-agent=Exo45Play 19.0
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="WORLD♥SPORTS",SKY SPORTS ACTION HD
